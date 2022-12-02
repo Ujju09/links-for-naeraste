@@ -11,7 +11,7 @@ col2.image(Image.open('nrsvg-clean.png'))
 
 st.header('nae raste')
 
-st.info('We are building simple yet unconventional products that support learning in the long tem.')
+st.info('We are building simple yet unconventional products that support learning in the long term.')
 
 icon_size = 20
 
